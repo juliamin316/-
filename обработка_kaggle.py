@@ -12,7 +12,6 @@ translation_dict = {
     "landAreaKm": "Площадь суши (км2)",
     "ActualSizeOfCountriesTotalWaterKm": "Общая площадь воды (км2)",
     "ActualSizeOfCountriesPercentOfTerritoryWater": "Процент воды в территории",
-    # Add more translations as needed for other columns
 }
 
 data.rename(columns=translation_dict, inplace=True)
