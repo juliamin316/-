@@ -55,5 +55,19 @@
 6. Сравнивая между собой продолжительность жизни и ВВП, можно говорить о положительной корреляции. В целом, наблюдается тенденция к увеличению продолжительности жизни с ростом ВВП. При этом зависимость между ВВП и продолжительностью жизни не является строго линейной. Большая часть стран сконцентрирована в левой части графика, что соответствует относительно низким значениям ВВП. 
 7. Страны-лидеры по ВВП — это Китай и Индия, что интересно, именно они также лидируют и по численности населения. 
 8. Рассматривая соотношения длительности жизни мужчин и женщин, можно говорить о мировом тренде – женщины живут дольше.
+# Получившиеся графики дашборда
 ![newplot](https://github.com/user-attachments/assets/83bd56db-d436-4676-ba45-c73e86df32b4)
+![newplot (1)](https://github.com/user-attachments/assets/e3f0c977-cc58-489f-83d7-c71a344d989e) 
+![newplot (2)](https://github.com/user-attachments/assets/3e3cd545-3858-4ad1-a381-78e9adbbc65c) 
+![newplot (3)](https://github.com/user-attachments/assets/4611a4bf-0e1b-4700-8b24-93a09109f6cd) 
+![newplot (4)](https://github.com/user-attachments/assets/c16a0c2c-7ce6-4a7e-9adf-30fa59ddeab2) 
+![newplot (5)](https://github.com/user-attachments/assets/7ecb309a-2742-4702-a776-c14ee446c664) 
+![newplot (6)](https://github.com/user-attachments/assets/bc9a82c3-9940-44a5-8ce2-15ce31536d79) 
+![newplot (7)](https://github.com/user-attachments/assets/fd6469d8-8818-4999-8e71-de2480a04263)
+
+
+
+
+
+
 
