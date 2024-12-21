@@ -35,7 +35,7 @@ country_translation_dict = {
     "DR Congo": "ДРК",
     "Vietnam": "Вьетнам",
     "Iran": "Иран",
-    "Turkey	": "Турция",
+    "Turkey": "Турция",
     "Germany": "Германия",
     "Thailand": "Тайланд",
     "United Kingdom": "Велико­британия",
