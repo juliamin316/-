@@ -31,10 +31,10 @@ for row in rows:
 
 # Создаем DataFrame
 data = {
-    'Country': countries,
-    'Life Expectancy (All)': overall_life_expectancy,
-    'Life Expectancy (Men)': men_life_expectancy,
-    'Life Expectancy (Women)': women_life_expectancy
+    'Страна': countries,
+    'Продолжительность жизни (все)': overall_life_expectancy,
+    'Продолжительность жизни (мужчины)': men_life_expectancy,
+    'Продолжительность жизни (женщины)': women_life_expectancy
 }
 
 df = pd.DataFrame(data)
